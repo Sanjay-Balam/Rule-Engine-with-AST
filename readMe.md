@@ -34,8 +34,7 @@ You can find the **frontend** and **backend** folders where I have implemented t
 ### Instructions to Test the Project
 1. **Clone the Repository**: 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Sanjay-Balam/Rule-Engine-with-AST.git
    ```
 
 2. **Set Up the Backend**:
@@ -66,7 +65,7 @@ To run the project, use the following command:
 3. **Set Up the Frontend**:
    - Navigate to the frontend folder:
      ```bash
-     cd ../frontend
+     cd ../frontend2
      ```
    - Install the required dependencies:
      ```bash
